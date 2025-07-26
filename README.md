@@ -17,14 +17,14 @@
 
 ---
 
-### 💼 Contact Me
+### Get in Touch
 
-- 📧 Email: [10952405@students.plymouth.ac.uk](mailto:10952405@students.plymouth.ac.uk)  
-- 💼 LinkedIn: [ladini-wijerathna-b6b525272](https://www.linkedin.com/in/ladini-wijerathna-b6b525272/)
+- Email: [10952405@students.plymouth.ac.uk](mailto:10952405@students.plymouth.ac.uk)  
+- LinkedIn: [ladini-wijerathna-b6b525272](https://www.linkedin.com/in/ladini-wijerathna-b6b525272/)
 
 ---
 
-### 🛠️ Skills & Tools
+### Core Competencies
 
 ![Project Management](https://img.shields.io/badge/-Project%20Management-blueviolet)
 ![Business Analytics](https://img.shields.io/badge/-Business%20Analytics-9cf)
@@ -34,7 +34,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Overview
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ladini333&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
@@ -43,7 +43,7 @@
 
 ---
 
-### 📊 Top Languages
+### Languages & Tools
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ladini333&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
@@ -51,7 +51,7 @@
 
 ---
 
-### 🔍 Fun Fact
+### Thought for the Day
 
 > "Great ideas need landing gear as well as wings."
 
