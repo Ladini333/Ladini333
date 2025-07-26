@@ -34,20 +34,13 @@
 
 ---
 
-### GitHub Overview
+### Interests & Goals
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ladini333&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Ladini333&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
-</p>
-
----
-
-### Languages & Tools
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ladini333&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
-</p>
+- Exploring how **technology** can solve real-world business problems  
+- Developing skills in **data analysis** and **decision making**  
+- Learning about **digital transformation** in organizations  
+- Building expertise in **project management methodologies**  
+- Staying updated with the latest in **emerging technologies**  
 
 ---
 
