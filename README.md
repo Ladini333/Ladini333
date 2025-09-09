@@ -55,6 +55,7 @@
 <a href="https://twitter.com/ladini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ladini" height="30" width="40" /></a>
 <a href="https://instagram.com/ladiii_girl_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ladiii_girl_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ladii umesha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ladii umesha" height="30" width="40" /></a>
+<a href="https://fb.com/ladini wijerathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ladini wijerathna" height="30" width="40" /></a>
 </p>
 
 ---
