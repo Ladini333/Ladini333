@@ -13,9 +13,9 @@
 </p>
 
 ---
-
-🎓 **BSc (Hons) Technology Management**  
-📍 **University of Plymouth**  
+### 🚀 About Me
+🎓**BSc (Hons) Technology Management**  
+ 📍    Final-year student of **University of Plymouth**  
 📈 Passionate about **technology**, **digital transformation**, and **innovation**  
 📊 Interested in **business analytics**, **project management**, and **emerging tech trends**
 
