@@ -6,7 +6,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Technology+Management+Undergraduate;Passionate+about+Innovation+and+Tech;Project+Management+and+Business+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=purple&center=true&vCenter=true&width=600&lines=Technology+Management+Undergraduate;Passionate+about+Innovation+and+Technology;Project+Management+and+Business+Analytics" alt="Typing SVG" />
+  <a href="mailto:10952405@students.plymouth.ac.uk"><p align="center"</p>
+   <img src="https://img.shields.io/badge/-Email Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
